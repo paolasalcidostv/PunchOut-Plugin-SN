@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">048d8ac1979451101c3438f11153afd1</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:02:05</sys_created_on>
+        <sys_id>848d8ac1979451101c3438f11153afd3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_column_848d8ac1979451101c3438f11153afd3</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:29:41</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sp_column_848d8ac1979451101c3438f11153afd3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">048d8ac1979451101c3438f11153afd1</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>daniel.molina</sys_created_by><sys_created_on>2022-06-23 15:02:05</sys_created_on><sys_id>848d8ac1979451101c3438f11153afd3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package><sys_policy/><sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope><sys_update_name>sp_column_848d8ac1979451101c3438f11153afd3</sys_update_name><sys_updated_by>daniel.molina</sys_updated_by><sys_updated_on>2022-06-23 15:29:41</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1351388344</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d1047e3c979811101c3438f11153aff7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:29:41</sys_created_on>
+        <sys_id>64d35209979451101c3438f11153af79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181912eeef70000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:29:41</sys_updated_on>
+        <type>Column</type>
+        <update_guid>e8d352098994511011f1da3ae1eaf178</update_guid>
+        <update_guid_history>e8d352098994511011f1da3ae1eaf178:-1351388344,488d8ac1c4945110e09e803aa58fe4d4:1626482025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">e8f31649979451101c3438f11153af98</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:30:14</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>0463b8d5fffc4224bbabb8a599f00b61</sys_id>
+        <sys_metadata>848d8ac1979451101c3438f11153afd3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sp_column_848d8ac1979451101c3438f11153afd3</sys_update_name>
+        <sys_update_version display_value="sp_column_848d8ac1979451101c3438f11153afd3">64d35209979451101c3438f11153af79</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:30:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

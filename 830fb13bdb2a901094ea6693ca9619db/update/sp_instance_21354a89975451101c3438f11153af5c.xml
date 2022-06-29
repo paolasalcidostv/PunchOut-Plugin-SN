@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a1354a89975451101c3438f11153af59</sp_column>
+        <sp_widget display_value="Stave Load Disabler">3153c240dbcbec500e9c71f2399619d8</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:51</sys_created_on>
+        <sys_id>21354a89975451101c3438f11153af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_21354a89975451101c3438f11153af5c</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:51</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=21354a89975451101c3438f11153af5c"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-04 22:53:41</sys_created_on>
+        <sys_id>9aade6e3dbfb2090f24c5e25ca961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScopedGlideElement</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_scope_privilege_9aade6e3dbfb2090f24c5e25ca961943</sys_update_name>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:53:41</sys_updated_on>
+        <target_name>ScopedGlideElement</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>199b84f51b5d5c50f290997fbd4bcbae</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="digest_properties">
+    <digest_properties action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default>false</default>
+        <encrypted_key>DE_USER</encrypted_key>
+        <external_logout_redirect>external_logout_complete.do</external_logout_redirect>
+        <failed_redirect/>
+        <federation/>
+        <header_key>SM_USER</header_key>
+        <is_primary>false</is_primary>
+        <logo_url/>
+        <name>Amazon PunchOut Provider</name>
+        <portal_url_redirect/>
+        <secret_key>gk6KdDRoHeE=</secret_key>
+        <sso_script display_value="MultiSSO_DigestedToken">17ba7f531b121100227e5581be0713e2</sso_script>
+        <sys_class_name>digest_properties</sys_class_name>
+        <sys_created_by>luis.ponce</sys_created_by>
+        <sys_created_on>2020-06-09 21:48:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>199b84f51b5d5c50f290997fbd4bcbae</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2020-06-23 18:15:05</sys_updated_on>
+        <user_field>user_name</user_field>
+    </digest_properties>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 16:16:14</sys_created_on>
+        <sys_id>abd523c4db40b090f24c5e25ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amazon PunchOut Provider</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_metadata_link_abd523c4db40b090f24c5e25ca96191b</sys_update_name>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:16:14</sys_updated_on>
+        <tablename>digest_properties</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a1354a89975451101c3438f11153af59</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave Header Dashboard">c4d29a87db25981094ea6693ca961966</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:51</sys_created_on>
+        <sys_id>a1354a89975451101c3438f11153af5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procure to Pay</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_vlist_a1354a89975451101c3438f11153af5f</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:51</sys_updated_on>
+        <table/>
+        <title>Procure to Pay</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"count_type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_style": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"conditional_style": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"success_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"warning_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"danger_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"average_to_substract": {
+		"value": "",
+		"displayValue": ""
+	},
+	"prefix": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=a1354a89975451101c3438f11153af5f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sp_instance_vlist_a1354a89975451101c3438f11153af5f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field/&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;2&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;a1354a89975451101c3438f11153af59&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Stave Header Dashboard"&gt;c4d29a87db25981094ea6693ca961966&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;daniel.molina&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-06-23 14:25:51&lt;/sys_created_on&gt;&lt;sys_id&gt;a1354a89975451101c3438f11153af5f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Procure to Pay&lt;/sys_name&gt;&lt;sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Stave PunchOut Plugin"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_a1354a89975451101c3438f11153af5f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;daniel.molina&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-06-23 14:25:51&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;title&gt;Procure to Pay&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"count_type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_style": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"conditional_style": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"success_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"warning_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"danger_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"average_to_substract": {
+		"value": "",
+		"displayValue": ""
+	},
+	"prefix": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a1354a89975451101c3438f11153af5f"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-562170210</payload_hash>
+        <record_name>Procure to Pay</record_name>
+        <reverted_from/>
+        <source>d1047e3c979811101c3438f11153aff7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:51</sys_created_on>
+        <sys_id>e5354a89975451101c3438f11153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18190f480ca0000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:51</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>ed354a8924545110e33619fd515eea79</update_guid>
+        <update_guid_history>ed354a8924545110e33619fd515eea79:-562170210</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Procure to Pay">dcb586c9975451101c3438f11153af4d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:27:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>0fbe754361c246f19762d1a49cd07791</sys_id>
+        <sys_metadata>a1354a89975451101c3438f11153af5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procure to Pay</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_a1354a89975451101c3438f11153af5f</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_a1354a89975451101c3438f11153af5f">e5354a89975451101c3438f11153af7a</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:27:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

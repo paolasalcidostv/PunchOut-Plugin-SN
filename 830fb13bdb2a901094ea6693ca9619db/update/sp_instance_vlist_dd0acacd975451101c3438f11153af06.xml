@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="sc_request">short_descriptionSTARTSWITHpunchout<item endquery="false" field="short_description" goto="false" newquery="false" operator="STARTSWITH" or="false" value="punchout"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5544da49979451101c3438f11153af42</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave Chart">2480f7bfdb123b4094ea6693ca961954</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:46:52</sys_created_on>
+        <sys_id>dd0acacd975451101c3438f11153af06</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Punchout Requests by Request State</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_vlist_dd0acacd975451101c3438f11153af06</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:31:41</sys_updated_on>
+        <table>sc_request</table>
+        <title>Punchout Requests by Request State</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"group_by": {
+		"value": "request_state",
+		"displayValue": "request_state"
+	},
+	"group_count": {
+		"value": "",
+		"displayValue": ""
+	},
+	"sum_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"dot_walk_table_name": {
+		"value": "",
+		"displayValue": ""
+	},
+	"form_page_id": {
+		"value": "",
+		"displayValue": ""
+	},
+	"title_alignment": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"chart_theme": {
+		"value": "",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_by_range": {
+		"value": "",
+		"displayValue": ""
+	},
+	"default_range": {
+		"value": "",
+		"displayValue": ""
+	},
+	"custom_color_palette": {
+		"value": "",
+		"displayValue": ""
+	},
+	"has_date_range_picker": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd0acacd975451101c3438f11153af06"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,default</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2022-05-05 17:50:32</sys_created_on>
+        <sys_id>0e2edadd1b5b015009b8628a234bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,default</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_ui_view_0e2edadd1b5b015009b8628a234bcbba</sys_update_name>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2022-05-05 17:50:32</sys_updated_on>
+        <title>Sys_popup,default</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

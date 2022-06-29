@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_content">
+    <sc_cat_item_content action="DELETE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <content_type>literal</content_type>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>View the Amazon Business catalog of available items, add items to you Amazon Business cart, then submit your cart for approval.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>6f9fbbc4db80b090f24c5e25ca961994</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <kb_article/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <module/>
+        <name>Amazon Business</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=da2df384db80b090f24c5e25ca961908&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>View the Amazon Business catalog</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_content</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:06:36</sys_created_on>
+        <sys_id>da2df384db80b090f24c5e25ca961908</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Amazon Business</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sc_cat_item_content_da2df384db80b090f24c5e25ca961908</sys_update_name>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 18:09:52</sys_updated_on>
+        <target>internal</target>
+        <template/>
+        <type>item</type>
+        <url/>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_content>
+    <sys_translated_text action="DELETE" query="documentkey=da2df384db80b090f24c5e25ca961908"/>
+    <fx_price action="DELETE" query="id=da2df384db80b090f24c5e25ca961908"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="MXN">MXN</currency>
+        <field>price</field>
+        <id>da2df384db80b090f24c5e25ca961908</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:06:36</sys_created_on>
+        <sys_id>182f3bc4db80b090f24c5e25ca96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 18:06:36</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="MXN">MXN</currency>
+        <field>recurring_price</field>
+        <id>da2df384db80b090f24c5e25ca961908</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:06:36</sys_created_on>
+        <sys_id>502f3bc4db80b090f24c5e25ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 18:06:36</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="DELETE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>2bd63b70b3114d6333fd142fc8827b5eb2d300218bd7023192d5e184e0045192</hash>
+        <image_height>49</image_height>
+        <image_width>298</image_width>
+        <size_bytes>2843</size_bytes>
+        <size_compressed>2866</size_compressed>
+        <state>available</state>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:08:44</sys_created_on>
+        <sys_id>6f9fbbc4db80b090f24c5e25ca961994</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 18:08:44</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_content</table_name>
+        <table_sys_id>da2df384db80b090f24c5e25ca961908</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="6f9fbbc4db80b090f24c5e25ca961994">6f9fbbc4db80b090f24c5e25ca961994</sys_attachment>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:08:44</sys_created_on>
+        <sys_id>af9fbbc4db80b090f24c5e25ca961994</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>ARsL5PSJUE5HDQoaCgAAAA1JSERSAAABKgAAADEIBgAAAG1c5MMAAAriSURBVHja7V3Bdds4EFUJ6SCb5LbrvOS2lvaQlJASWILPsd+LSnAJ6iA6xM6VJagElJAOvARASiA4M5gBQZGSZ97j26xND0FI+Jj5+BisVmpqXPvx883q/vfX3vXj91+vuk8enr6t7p+2q+/Pd6++L9TUFjIo/6wenl8GlwWsVwfaDSg9PJthf/yu9IuipjYrUAEg9VqB6uF5j/aHRlZqagpUi+6L19ofamoKVApUampqClSa+qmpKVBdoX3/9VnJdDU1BaoL6ROVJ6ipKVCpqXHs7acvbz78899Xe739e/P5Kt6peY/jO336V2dBBSq1S7T3HzfVu5v1/v3N5k/z75fhtT68/3h7Z0GM9nN79+7jettdH27W38JnNFd99Nk8q3nmLgZD+wz7t/6ZxzYYdy8TZOx9gI+X6Nl7C1wp0A7fx11NO9r3QC/rm+or+zvbV73+aPsZ6hNOX9v/735n38t9nv33ts+qigKV/e/D0w4QhprV/fMjKzWyHI9NpcLLplcpvij+G5eK/cS/n/Z39p77pxp+p6eDf5emPZCf099Hz/01/Kycij/xPvZn7nkQ7/W8F08GpD/3+exFfJrz5xYQYH+2H7npb6ptKV92QKCDGRng2CCygwP6m3bQ7CifHWD49mxMzvPDAYwD7vCiQMUDALNvYr/N32KTAqd9HpjhdlF93U4IpN/RQEUNeOheCnByVtJwsNnCz2nagKns4csMwMr5QO4dDkzgWS1YWbCAwUnWdyEocv117YXAtT8JHAT+XtCJpYQvBwqCAd0DCyCywQYPMLOjPlmg6e5FgOVm85gFKk0bzwFU8vatD9C7on3Nb281Cqikl42u8EEmTy8lQGWfndXm6PkuMkLu5fSbHbBccOf2gwe9jM+kAVIIrNzEIQJ0vN9zfdkoLprZTfYgBAY2NngElxkDAmOfD6WBJYHKpsGT9zV/4jFnBSps1p0aqCj/5waq7HY071oUpKhIUBSZ0UCV76teRXwRwt1sHttBVVNf9gmASnLVQEpV4wDo+KCKAkP73oN3ygQXe4VRp+OkcBCpPfeFR1sh11eqr1l8H//LdcgaGFMDFSXSdDxa46e74tk/jjjmAirIv9sgjUUr9udPuxM/RgFGwFl5TooGkNN1IFPUMb5s208pCJyODYltm44hX/To3sTgacHCAUYqcjJHghgf3IbZznqYfqF8WS3hLikQi6MpgjeqeX24PgiByhwXSAQRpGDAGZD8dLM8Fe5HZO7kQIVVf0C4LMtLeeIXiP4KAZVre0TYp/ot7gtPTMMTBrQQgAJ2AAr4+xl0kaJbNIh/X8oXNHtjPA0GFvEXnUpHQp6FAr+Yk6EG5GAVDWgnNBgJgGEDlXsHAkRjXgnj3qD2YfeGEwPVL/HiADExVNlARYIImW7tzxxRldvyUgKoMK4u5T/sCwemSCSFvRfWz2GahT0fA/WcvsrxFeqlbASAEdRYSsUFKmiViUjTKuBeVuoZ6qWsnzhd6q90jgMqKi2G5BYYgMsWBPryAy73hPFs2KpkER0Vmgo+/VlERBVGEmcFKmKgcvsC5aaId8KBo+ZFQUJgL+mLI5CkeB02UIGrX3D6BUcYfKDigvIYoGrT1xIkfy3xH0a8kkkBiyAnBqotK5qZm6NKaa+WCFToKiYiEfDpbBqwk+R8cy8la5BwVBJfgOBzJ1l5GwVUCFiUAiqfXraCSv5KWM0BcCptFQJbLdFIhfdL+lpybzmg4g66qYGKuzJmyecR4HtWoCIEq7EY1YMaj0wnAS1eOEkIR6W+UpOFm21ztFTnBCqkfaiSnBKXjgQqSumOraJJIzgOL6dAJdFRCbRLbhUKee7SgUouAziMkzw4Rfk2P6pi+soVR84QUdUcoPJckEBlLwSqRH+hM4wC1cxA5Wf33WiB6jUBFbY6yFq5hXwhvFOOrzAlTOiD3J6wLkIYTaafCagogttpw9yGZL9gIAWq1CobCXAKVPMCVX/5u84WMV4HUBlQToCCOxNkKOBzJxnZFJQNWCcJA8ZFSVbolgRUpDQC2BsoAY521c5It/OU56hOHJgCVQZQhWJJ7sDpEf9LB6re5u5WTNm8Z7dhO4e8doDl/KYFval9iVJfBCFsJpEnnAGoMF4KUpujcgEEOCjOiyOa5Io4JeLQ5QMVc1DPAVRDToZHNi8eqBIVJ8ZaKiLFtvrk+pLO8Fyx4pxAxQVTKXCQKbIn+duyLpa/ur2DojcCGF8kqWLYjxcAVAcWgTs3UKXbu10gUG2LacNyTFJFIttXE+1KOBN6q8bt3eKBChB9UhHSUFGetXHbDLfQIGAPtG+MMn0RQEWt9sQkNaliJ5bAOcBSQqC4RKCiSuNMHVUdUziGmHeUr+ZCgWqw1SW5imY4213mBKqY6E7tkQvbSm/1kVVP4EaxRNpncsFnEqByZUKivX5dYTmK+4lXh0igAkqR+HrlNRsIjrxNMgKsk7zLUoDK+zfkM7BVOLeZ2faJ5a4in36j8y6pa8KioDD14/rC5BDWFz1YHTBVqUoDEAc0M0e1pwrF+eJ9PDlGF7kUqFBQ90B/RPWEWP4wP1BllXnZiWbUvpDxkLVSh9WE6khmvMLmcsl0vt7J4BUKAE5pqOI3bVWJXUDSH1jRMs9XnfSVK/IsRfBOEFFVpUrIdG0oCVQMSYhI33V5QGU3zGK75qUVIEcA1ZgCbksCKhgMxtW5GiV7iDZEl/IlKwhn63gDs3209D+/joov9sS2C4WVB5D3ccQ5UEd9D/irJfxYqQqf0wOVtGojUk0ySw0dlkqZEKggXdDSgMrpk0aAfDqiElwRnygV2FK+OIMmHLh9IGgGELMe1dmU6al666eVuiq4H9WQnUq5+HQ4pZfqfDpQtwUIESDgThJULfdZgarjfHgVHA1Lv8P/YpvjoIUAU7YpGR/AUPRHVQRgR6LEAgFFklN9SAGoKPp0dbjkkxB+cEUZX92XGDh9xnS8TrzMbu/FBlD3e85pLC1IRCe3bB4JXVF80kuFizOh0128/3g/XjuI5aezjDR3Sg4U1UlOx+H2teBe8AvXO00lnjldNLQffCm74nBFNE3dCSrRlzhuG6a4dgcMOE7qkEz1qDb7CGbLOjEHahtHEQ6ecsM44CF1wk7Yj9RpL50oE/pMpQr3kr7UJODy5Y3lmcJ0z4JNd1TVtZyBOLs55bgVBDbXFCcRh/7tlaPYvgQr0YcOnIO+GnOeI+TrXODEmpUv3HxEx+O/sKhQTU1tRgvSl+oa3y91wMXYuutqamrnAKoeMbw+sA4MuCgg3jyGq3xdldCu+imwIKFApaa23NRoKBp9Re9fc0u+qKmpzWiINMAdkXVNPNbxIIyAOO8BFWfJX01NbUawOi2Dw9tYkFNhlv9ex/rrBkrxwp/ryp+a2sWkQs2gxrboeJ3Q4kGr3ZBcgWR6KBrtb1w2+umrqV1YFEJtFA7FjWHZ4yWkdQkpQh22NayKoGmfmtqFWrs6xqvp1AJXt7o2Jbflzi204k2/h7HmtA0+HLUFNUZJYjU1tcWng7yyMWgZlBbAYomAB7RThGP/3ft9oCT3gCQ8pabdswdvTTmlfRpNqakpYJ3/IgCqs6CiRK2frJralaaEIw4KnfJib1D2/BpchkVNTe2KrD34oEoS75NeNh20eq/5CX01NbULAK0TwT3qxGNGIUAXzVUaDampqRVJEW20cyLDm4tfRrl3lNXUK4lqamrl7H9sSWwp7c1WCQAAAABJRU5ErkJggo5Er80bCwAA</data>
+        <length>3808</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="6f9fbbc4db80b090f24c5e25ca961994">6f9fbbc4db80b090f24c5e25ca961994</sys_attachment>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:08:44</sys_created_on>
+        <sys_id>239fbbc4db80b090f24c5e25ca961995</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sc_cat_item_content_da2df384db80b090f24c5e25ca961908</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_content"&gt;&lt;sc_cat_item_content action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category/&gt;&lt;content_type&gt;literal&lt;/content_type&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;View the Amazon Business catalog of available items, add items to you Amazon Business cart, then submit your cart for approval.&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon&gt;6f9fbbc4db80b090f24c5e25ca961994&lt;/icon&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;kb_article/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;module/&gt;&lt;name&gt;Amazon Business&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=da2df384db80b090f24c5e25ca961908&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;short_description&gt;View the Amazon Business catalog&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;sys_class_name&gt;sc_cat_item_content&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jonas.perusquia&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-06 18:06:36&lt;/sys_created_on&gt;&lt;sys_id&gt;da2df384db80b090f24c5e25ca961908&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Amazon Business&lt;/sys_name&gt;&lt;sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Stave PunchOut Plugin"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_content_da2df384db80b090f24c5e25ca961908&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jonas.perusquia&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-06 18:09:52&lt;/sys_updated_on&gt;&lt;target&gt;internal&lt;/target&gt;&lt;template/&gt;&lt;type&gt;item&lt;/type&gt;&lt;url/&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_content&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=da2df384db80b090f24c5e25ca961908"/&gt;&lt;fx_price action="delete_multiple" query="id=da2df384db80b090f24c5e25ca961908"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="MXN"&gt;MXN&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;da2df384db80b090f24c5e25ca961908&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;jonas.perusquia&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-06 18:06:36&lt;/sys_created_on&gt;&lt;sys_id&gt;182f3bc4db80b090f24c5e25ca96191a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;jonas.perusquia&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-06 18:06:36&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_content&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="MXN"&gt;MXN&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;da2df384db80b090f24c5e25ca961908&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;jonas.perusquia&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-06 18:06:36&lt;/sys_created_on&gt;&lt;sys_id&gt;502f3bc4db80b090f24c5e25ca96191b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;jonas.perusquia&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-06 18:06:36&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_content&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;sys_attachment action="INSERT_OR_UPDATE"&gt;&lt;average_image_color&gt;#0&lt;/average_image_color&gt;&lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;&lt;compressed&gt;true&lt;/compressed&gt;&lt;content_type&gt;image/png&lt;/content_type&gt;&lt;encryption_context/&gt;&lt;file_name&gt;icon&lt;/file_name&gt;&lt;hash&gt;2bd63b70b3114d6333fd142fc8827b5eb2d300218bd7023192d5e184e0045192&lt;/hash&gt;&lt;image_height&gt;49&lt;/image_height&gt;&lt;image_width&gt;298&lt;/image_width&gt;&lt;size_bytes&gt;2843&lt;/size_bytes&gt;&lt;size_compressed&gt;2866&lt;/size_compressed&gt;&lt;state&gt;available&lt;/state&gt;&lt;sys_created_by&gt;jonas.perusquia&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-06 18:08:44&lt;/sys_created_on&gt;&lt;sys_id&gt;6f9fbbc4db80b090f24c5e25ca961994&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;jonas.perusquia&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-06 18:08:44&lt;/sys_updated_on&gt;&lt;table_name&gt;ZZ_YYsc_cat_item_content&lt;/table_name&gt;&lt;table_sys_id&gt;da2df384db80b090f24c5e25ca961908&lt;/table_sys_id&gt;&lt;/sys_attachment&gt;&lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;&lt;data&gt;H4sIAAAAAAAAAA==&lt;/data&gt;&lt;length&gt;16&lt;/length&gt;&lt;position&gt;0&lt;/position&gt;&lt;sys_attachment display_value="icon" sys_id="6f9fbbc4db80b090f24c5e25ca961994"&gt;6f9fbbc4db80b090f24c5e25ca961994&lt;/sys_attachment&gt;&lt;sys_created_by&gt;jonas.perusquia&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-06 18:08:44&lt;/sys_created_on&gt;&lt;sys_id&gt;af9fbbc4db80b090f24c5e25ca961994&lt;/sys_id&gt;&lt;/sys_attachment_doc&gt;&lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;&lt;data&gt;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&lt;/data&gt;&lt;length&gt;3808&lt;/length&gt;&lt;position&gt;1&lt;/position&gt;&lt;sys_attachment display_value="icon" sys_id="6f9fbbc4db80b090f24c5e25ca961994"&gt;6f9fbbc4db80b090f24c5e25ca961994&lt;/sys_attachment&gt;&lt;sys_created_by&gt;jonas.perusquia&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-06 18:08:44&lt;/sys_created_on&gt;&lt;sys_id&gt;239fbbc4db80b090f24c5e25ca961995&lt;/sys_id&gt;&lt;/sys_attachment_doc&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Amazon Business</record_name>
+        <reverted_from/>
+        <source>1f6690b0db7b6850f24c5e25ca961907</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:09:53</sys_created_on>
+        <sys_id>98efb308db80b090f24c5e25ca961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17942df2db40000001</sys_recorded_at>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 18:09:53</sys_updated_on>
+        <type>Content Item</type>
+        <update_guid>10efb308d080b090a4b8784694247a65</update_guid>
+        <update_guid_history>10efb308d080b090a4b8784694247a65:-1488807033,a39fffc4c680b09094ddc0bc02c79935:-1653022700,679fbbc41a80b09053a258bbdaa46299:-1564835907,242f3bc4c680b090594c85d45731cfb3:1181331806</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Amazon Business">24efb308db80b090f24c5e25ca96198b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 18:09:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_content">sc_cat_item_content</sys_db_object>
+        <sys_id>4327b6c1046b49ce9df618bd332cae59</sys_id>
+        <sys_metadata>da2df384db80b090f24c5e25ca961908</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amazon Business</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_content_da2df384db80b090f24c5e25ca961908</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_content_da2df384db80b090f24c5e25ca961908">98efb308db80b090f24c5e25ca961965</sys_update_version>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 18:09:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

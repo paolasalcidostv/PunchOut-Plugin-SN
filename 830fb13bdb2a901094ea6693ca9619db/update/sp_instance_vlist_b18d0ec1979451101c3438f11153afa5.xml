@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_stave_sc_purchase_order">u_type=punchout<item display_value="PunchOut" endquery="false" field="u_type" goto="false" newquery="false" operator="=" or="false" value="punchout"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b8f49689979451101c3438f11153af10</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave Card">d03de22edb71f30094ea6693ca961993</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:02:11</sys_created_on>
+        <sys_id>b18d0ec1979451101c3438f11153afa5</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>PunchOut Purchase Orders</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_vlist_b18d0ec1979451101c3438f11153afa5</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 16:07:38</sys_updated_on>
+        <table>x_stave_sc_purchase_order</table>
+        <title>PunchOut Purchase Orders</title>
+        <url>?id=stv_sc_list&amp;table=x_stave_sc_purchase_order&amp;filter=u_type=punchout&amp;sTitle=PunchOut Purchase Orders&amp;target_page_id=stv_sc_purchase_order&amp;view=sp</url>
+        <widget_parameters><![CDATA[{
+	"count_type": {
+		"value": "Count",
+		"displayValue": "Count"
+	},
+	"count_field": {
+		"value": "sys_created_on",
+		"displayValue": "sys_created_on"
+	},
+	"remove_glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"font_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"value_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_style": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url": {
+		"value": "?id=stv_sc_list&table=x_stave_sc_purchase_order&filter=u_type=punchout&sTitle=PunchOut Purchase Orders&target_page_id=stv_sc_purchase_order&view=sp",
+		"displayValue": "?id=stv_sc_list&table=x_stave_sc_purchase_order&filter=u_type=punchout&sTitle=PunchOut Purchase Orders&target_page_id=stv_sc_purchase_order&view=sp"
+	},
+	"url_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"conditional_style": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"success_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"warning_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"danger_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"average_to_substract": {
+		"value": "",
+		"displayValue": ""
+	},
+	"prefix": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_by_range": {
+		"value": "",
+		"displayValue": ""
+	},
+	"default_range": {
+		"value": "",
+		"displayValue": ""
+	},
+	"is_clickable": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_count": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"has_date_range_picker": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"font_size": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=b18d0ec1979451101c3438f11153afa5"/>
+</record_update>

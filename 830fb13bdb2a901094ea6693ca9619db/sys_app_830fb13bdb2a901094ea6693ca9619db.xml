@@ -22,16 +22,16 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_stave_punchout</source>
-        <store_correlation_id>REPOAPP0000600541</store_correlation_id>
-        <store_url>https://tpp.servicenow.com/sn_appstore_s</store_url>
+        <store_correlation_id>REPOAPP0000602475</store_correlation_id>
+        <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>paola.salcido</sys_created_by>
         <sys_created_on>2020-08-17 14:38:53</sys_created_on>
         <sys_id>830fb13bdb2a901094ea6693ca9619db</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_updated_by>daniel.molina</sys_updated_by>
-        <sys_updated_on>2022-06-16 19:55:36</sys_updated_on>
+        <sys_updated_on>2022-06-16 20:37:54</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

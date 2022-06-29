@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_stave_sc_purchase_order">statusINordered,received,partially_received,closed<item display_value="ordered,received,partially_received,closed" endquery="false" field="status" goto="false" newquery="false" operator="IN" or="false" value="ordered,received,partially_received,closed"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e5354a89975451101c3438f11153af96</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave Chart">2480f7bfdb123b4094ea6693ca961954</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>a9354a89975451101c3438f11153af98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Spend by Vendor</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_vlist_a9354a89975451101c3438f11153af98</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:52</sys_updated_on>
+        <table>x_stave_sc_purchase_order</table>
+        <title>Spend by Vendor</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"group_by": {
+		"value": "vendor",
+		"displayValue": "vendor"
+	},
+	"group_count": {
+		"value": "",
+		"displayValue": ""
+	},
+	"sum_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"dot_walk_table_name": {
+		"value": "",
+		"displayValue": ""
+	},
+	"form_page_id": {
+		"value": "stv_sc_purchase_order",
+		"displayValue": "stv_sc_purchase_order"
+	},
+	"title_alignment": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"chart_theme": {
+		"value": "7a672a82db81dc1094ea6693ca9619ac",
+		"displayValue": "Theme 1"
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filtered_by_ramge": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"filtered_by_range": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"filter_by_range": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"graphic_panel_class": {
+		"value": "",
+		"displayValue": ""
+	},
+	"fixed_card_height": {
+		"value": 400,
+		"displayValue": "400"
+	},
+	"default_range": {
+		"value": "Today",
+		"displayValue": "Today"
+	},
+	"custom_color_palette": {
+		"value": "",
+		"displayValue": ""
+	},
+	"has_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=a9354a89975451101c3438f11153af98"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sp_instance_vlist_a9354a89975451101c3438f11153af98</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field/&gt;&lt;field_list/&gt;&lt;filter table="x_stave_sc_purchase_order"&gt;statusINordered,received,partially_received,closed&lt;item display_value="ordered,received,partially_received,closed" endquery="false" field="status" goto="false" newquery="false" operator="IN" or="false" value="ordered,received,partially_received,closed"/&gt;&lt;/filter&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e5354a89975451101c3438f11153af96&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Stave Chart"&gt;2480f7bfdb123b4094ea6693ca961954&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;daniel.molina&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-06-23 14:25:52&lt;/sys_created_on&gt;&lt;sys_id&gt;a9354a89975451101c3438f11153af98&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Spend by Vendor&lt;/sys_name&gt;&lt;sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Stave PunchOut Plugin"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_a9354a89975451101c3438f11153af98&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;daniel.molina&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-06-23 14:25:52&lt;/sys_updated_on&gt;&lt;table&gt;x_stave_sc_purchase_order&lt;/table&gt;&lt;title&gt;Spend by Vendor&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"group_by": {
+		"value": "vendor",
+		"displayValue": "vendor"
+	},
+	"group_count": {
+		"value": "",
+		"displayValue": ""
+	},
+	"sum_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"dot_walk_table_name": {
+		"value": "",
+		"displayValue": ""
+	},
+	"form_page_id": {
+		"value": "stv_sc_purchase_order",
+		"displayValue": "stv_sc_purchase_order"
+	},
+	"title_alignment": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"chart_theme": {
+		"value": "7a672a82db81dc1094ea6693ca9619ac",
+		"displayValue": "Theme 1"
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filtered_by_ramge": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"filtered_by_range": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"filter_by_range": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"graphic_panel_class": {
+		"value": "",
+		"displayValue": ""
+	},
+	"fixed_card_height": {
+		"value": 400,
+		"displayValue": "400"
+	},
+	"default_range": {
+		"value": "Today",
+		"displayValue": "Today"
+	},
+	"custom_color_palette": {
+		"value": "",
+		"displayValue": ""
+	},
+	"has_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a9354a89975451101c3438f11153af98"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>277313181</payload_hash>
+        <record_name>Spend by Vendor</record_name>
+        <reverted_from/>
+        <source>d1047e3c979811101c3438f11153aff7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>e5354a89975451101c3438f11153af9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18190f482260000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:52</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>ed354a89b854511063505314ec265599</update_guid>
+        <update_guid_history>ed354a89b854511063505314ec265599:277313181</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Spend by Vendor">a901de85979451101c3438f11153af2d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:17:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>3aee1e25c1e04500936067baee3404e4</sys_id>
+        <sys_metadata>a9354a89975451101c3438f11153af98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Spend by Vendor</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_a9354a89975451101c3438f11153af98</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_a9354a89975451101c3438f11153af98">e5354a89975451101c3438f11153af9a</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:17:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

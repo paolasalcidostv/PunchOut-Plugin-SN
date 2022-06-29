@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="DELETE">
+        <directory>update</directory>
+        <documentkey>0181ab38db173b0094ea6693ca9619a0</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_stave_sc_form_header_action"&gt;
+    &lt;x_stave_sc_form_header_action action="INSERT_OR_UPDATE"&gt;
+        &lt;condition_script&gt;&lt;![CDATA[/*
+Condition script is the script that controls if the action should be displayed or not. 
+    Set answer = true to display the action, answer = false to disclude the action. 
+
+    Avaliable variables: 
+        current = GlideRecord object of the current record 
+        page = the current page
+        view = the current view
+*/
+answer = (current.sys_class_name == "x_stave_sc_fleet_asset" &amp;&amp; current.assigned_to =='')]]&gt;&lt;/condition_script&gt;
+        &lt;execution_script&gt;&lt;![CDATA[/*
+Execution script is the script that is run when executing the action.
+    For redirect set the variables:
+        answer = {};
+        answer.page =  the page param for the URL
+        answer.table =  the table param for the URL
+        answer.sys_id = the sys id param for the URL
+        answer.refVal = the referringValue for the URL, this should typically be set to the display value of the current record;
+        answer.redirect = true;
+         An example for showing a widget 
+         answer = {};
+         answer.widget_options={}; 
+         answer.widget = true;
+         answer.widget_id='stv-sc-receiving-order';
+         answer.widget_options.sys_id= current.sys_id.toString();
+         answer.widget_options.field_list = "product_name,quantity,received_quantity";
+
+For any other actions the answer variable does not need to be set.
+
+    Avaliable variables: 
+        current = GlideRecord object of the current record 
+        page = the current page 
+        view = the current view
+*/
+current.install_status = 1;
+current.assigned_to = gs.getUserID();
+current.update();
+answer ={}
+answer.message = gs.getMessage('Fleet asset has been checked out and assigned to you')
+]]&gt;&lt;/execution_script&gt;
+        &lt;icon/&gt;
+        &lt;name&gt;Check Out&lt;/name&gt;
+        &lt;order&gt;0&lt;/order&gt;
+        &lt;req_confirm&gt;false&lt;/req_confirm&gt;
+        &lt;req_refresh&gt;false&lt;/req_refresh&gt;
+        &lt;sys_created_by&gt;martin.palacios&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2019-08-14 04:33:10&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;0181ab38db173b0094ea6693ca9619a0&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;martin.palacios&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2019-09-05 05:07:10&lt;/sys_updated_on&gt;
+        &lt;table display_value="Asset" name="alm_asset"&gt;d4edb3ccdb81330094ea6693ca961934&lt;/table&gt;
+        &lt;workflow_action&gt;true&lt;/workflow_action&gt;
+    &lt;/x_stave_sc_form_header_action&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2022-06-14 21:53:35</sys_created_on>
+        <sys_id>1c651d121bc0151009b8628a234bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check Out</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_metadata_link_1c651d121bc0151009b8628a234bcb33</sys_update_name>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2022-06-14 21:53:35</sys_updated_on>
+        <tablename>x_stave_sc_form_header_action</tablename>
+    </sys_metadata_link>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sys_metadata_link_1c651d121bc0151009b8628a234bcb33</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link"><sys_metadata_link action="INSERT_OR_UPDATE"><directory>update</directory><documentkey>0181ab38db173b0094ea6693ca9619a0</documentkey><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_stave_sc_form_header_action"&gt;
+    &lt;x_stave_sc_form_header_action action="INSERT_OR_UPDATE"&gt;
+        &lt;condition_script&gt;&lt;![CDATA[/*
+Condition script is the script that controls if the action should be displayed or not. 
+    Set answer = true to display the action, answer = false to disclude the action. 
+
+    Avaliable variables: 
+        current = GlideRecord object of the current record 
+        page = the current page
+        view = the current view
+*/
+answer = (current.sys_class_name == "x_stave_sc_fleet_asset" &amp;&amp; current.assigned_to =='')]]&gt;&lt;/condition_script&gt;
+        &lt;execution_script&gt;&lt;![CDATA[/*
+Execution script is the script that is run when executing the action.
+    For redirect set the variables:
+        answer = {};
+        answer.page =  the page param for the URL
+        answer.table =  the table param for the URL
+        answer.sys_id = the sys id param for the URL
+        answer.refVal = the referringValue for the URL, this should typically be set to the display value of the current record;
+        answer.redirect = true;
+         An example for showing a widget 
+         answer = {};
+         answer.widget_options={}; 
+         answer.widget = true;
+         answer.widget_id='stv-sc-receiving-order';
+         answer.widget_options.sys_id= current.sys_id.toString();
+         answer.widget_options.field_list = "product_name,quantity,received_quantity";
+
+For any other actions the answer variable does not need to be set.
+
+    Avaliable variables: 
+        current = GlideRecord object of the current record 
+        page = the current page 
+        view = the current view
+*/
+current.install_status = 1;
+current.assigned_to = gs.getUserID();
+current.update();
+answer ={}
+answer.message = gs.getMessage('Fleet asset has been checked out and assigned to you')
+]]&gt;&lt;/execution_script&gt;
+        &lt;icon/&gt;
+        &lt;name&gt;Check Out&lt;/name&gt;
+        &lt;order&gt;0&lt;/order&gt;
+        &lt;req_confirm&gt;false&lt;/req_confirm&gt;
+        &lt;req_refresh&gt;false&lt;/req_refresh&gt;
+        &lt;sys_created_by&gt;martin.palacios&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2019-08-14 04:33:10&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;0181ab38db173b0094ea6693ca9619a0&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;martin.palacios&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2019-09-05 05:07:10&lt;/sys_updated_on&gt;
+        &lt;table display_value="Asset" name="alm_asset"&gt;d4edb3ccdb81330094ea6693ca961934&lt;/table&gt;
+        &lt;workflow_action&gt;true&lt;/workflow_action&gt;
+    &lt;/x_stave_sc_form_header_action&gt;
+&lt;/record_update&gt;
+</payload><sys_class_name>sys_metadata_link</sys_class_name><sys_created_by>paola.salcido</sys_created_by><sys_created_on>2022-06-14 21:53:35</sys_created_on><sys_id>1c651d121bc0151009b8628a234bcb33</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Check Out</sys_name><sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package><sys_policy/><sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope><sys_update_name>sys_metadata_link_1c651d121bc0151009b8628a234bcb33</sys_update_name><sys_updated_by>paola.salcido</sys_updated_by><sys_updated_on>2022-06-14 21:53:35</sys_updated_on><tablename>x_stave_sc_form_header_action</tablename></sys_metadata_link></record_update>]]></payload>
+        <payload_hash>1911652279</payload_hash>
+        <record_name>Check Out</record_name>
+        <reverted_from/>
+        <source>94efb0da1b3d4d5009b8628a234bcbc6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2022-06-14 21:53:35</sys_created_on>
+        <sys_id>54651d121bc0151009b8628a234bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18164352c610000001</sys_recorded_at>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2022-06-14 21:53:35</sys_updated_on>
+        <type>Metadata Snapshot</type>
+        <update_guid>5c651d123dc01510a0addd79ad71e436</update_guid>
+        <update_guid_history>5c651d123dc01510a0addd79ad71e436:1911652279</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2022-06-14 21:55:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_metadata_link">sys_metadata_link</sys_db_object>
+        <sys_id>bc5eba7c15ec469194f728a97c7bcca1</sys_id>
+        <sys_metadata>1c651d121bc0151009b8628a234bcb33</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check Out</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sys_metadata_link_1c651d121bc0151009b8628a234bcb33</sys_update_name>
+        <sys_update_version display_value="sys_metadata_link_1c651d121bc0151009b8628a234bcb33">54651d121bc0151009b8628a234bcb37</sys_update_version>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2022-06-14 21:55:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>number,short_description</field_list>
+        <filter table="sc_request">sys_idINjavascript:x_stave_sc.approved_requests_with_no_POs()<item endquery="false" field="sys_id" goto="false" newquery="false" operator="IN" or="false" value="javascript:x_stave_sc.approved_requests_with_no_POs()"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by>sys_created_on</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">fd354a89975451101c3438f11153afb3</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave List">886cfaee1bd11090f290997fbd4bcb83</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>b1354a89975451101c3438f11153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests to Source</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_table_b1354a89975451101c3438f11153afb6</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:52</sys_updated_on>
+        <table>sc_request</table>
+        <title>Requests to Source</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"show_export": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_breadcrumbs": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_personalize": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_new": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_keywords": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"filter_by_range": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"default_range": {
+		"value": "Today",
+		"displayValue": "Today"
+	},
+	"target_page": {
+		"value": "sc_request",
+		"displayValue": "sc_request"
+	},
+	"is_embedded": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"open_records_in_modal": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"has_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"close_modals_on_submit": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"open_new_in_modal": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=b1354a89975451101c3438f11153afb6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sp_instance_table_b1354a89975451101c3438f11153afb6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_table"&gt;&lt;sp_instance_table action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field/&gt;&lt;field_list&gt;number,short_description&lt;/field_list&gt;&lt;filter table="sc_request"&gt;sys_idINjavascript:x_stave_sc.approved_requests_with_no_POs()&lt;item endquery="false" field="sys_id" goto="false" newquery="false" operator="IN" or="false" value="javascript:x_stave_sc.approved_requests_with_no_POs()"/&gt;&lt;/filter&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by&gt;sys_created_on&lt;/order_by&gt;&lt;order_direction&gt;desc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;fd354a89975451101c3438f11153afb3&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Stave List"&gt;886cfaee1bd11090f290997fbd4bcb83&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_table&lt;/sys_class_name&gt;&lt;sys_created_by&gt;daniel.molina&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-06-23 14:25:52&lt;/sys_created_on&gt;&lt;sys_id&gt;b1354a89975451101c3438f11153afb6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Requests to Source&lt;/sys_name&gt;&lt;sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Stave PunchOut Plugin"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_table_b1354a89975451101c3438f11153afb6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;daniel.molina&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-06-23 14:25:52&lt;/sys_updated_on&gt;&lt;table&gt;sc_request&lt;/table&gt;&lt;title&gt;Requests to Source&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"show_export": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_breadcrumbs": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_personalize": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_new": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_keywords": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"filter_by_range": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"default_range": {
+		"value": "Today",
+		"displayValue": "Today"
+	},
+	"target_page": {
+		"value": "sc_request",
+		"displayValue": "sc_request"
+	},
+	"is_embedded": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"open_records_in_modal": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"has_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"close_modals_on_submit": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"open_new_in_modal": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_table&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b1354a89975451101c3438f11153afb6"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1426747058</payload_hash>
+        <record_name>Requests to Source</record_name>
+        <reverted_from/>
+        <source>d1047e3c979811101c3438f11153aff7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>f5354a89975451101c3438f11153afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18190f483580000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:52</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>fd354a894254511067d37dcf665ab0b7</update_guid>
+        <update_guid_history>fd354a894254511067d37dcf665ab0b7:-1426747058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requests to Source">4506ca0d975451101c3438f11153af09</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:29:22</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>2f063691db7f4c449e477ccf0befe810</sys_id>
+        <sys_metadata>b1354a89975451101c3438f11153afb6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests to Source</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sp_instance_table_b1354a89975451101c3438f11153afb6</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_b1354a89975451101c3438f11153afb6">f5354a89975451101c3438f11153afb8</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:29:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

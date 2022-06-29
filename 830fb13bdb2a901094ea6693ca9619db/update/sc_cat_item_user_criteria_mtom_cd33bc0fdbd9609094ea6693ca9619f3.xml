@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Amazon Business">96940c59db3a501090b15c7a4896195c</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2020-12-29 18:04:44</sys_created_on>
+        <sys_id>cd33bc0fdbd9609094ea6693ca9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amazon PunchOut.PunchOut Requester</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_cd33bc0fdbd9609094ea6693ca9619f3</sys_update_name>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2020-12-29 18:04:44</sys_updated_on>
+        <user_criteria display_value="PunchOut Requester">3225dfc21b5f8410f290997fbd4bcb3d</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

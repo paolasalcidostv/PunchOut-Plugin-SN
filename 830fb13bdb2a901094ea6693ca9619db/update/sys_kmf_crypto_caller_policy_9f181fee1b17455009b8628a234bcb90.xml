@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="com_glide_certificates_glideencrypter">8994cbe3ff23201022f462aa453bf13d</crypto_module>
+        <crypto_spec/>
+        <granular_operation/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>6d7935fadbd99f44b2e05d00cf961994</owner>
+        <policy_name>AutoGen-scope-x_stave_punchout-global.com_glide_certificates_glideencrypter</policy_name>
+        <result>reject</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2022-05-09 19:16:09</sys_created_on>
+        <sys_id>9f181fee1b17455009b8628a234bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AutoGen-scope-x_stave_punchout-global.com_glide_certificates_glideencrypter</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_9f181fee1b17455009b8628a234bcb90</sys_update_name>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2022-05-09 19:16:09</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_stave_sc_purchase_order">status=rev_in_prog<item display_value="Review in Progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="rev_in_prog"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">b9354a89975451101c3438f11153afab</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave Card">d03de22edb71f30094ea6693ca961993</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>3d354a89975451101c3438f11153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Orders Under Review - Total</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_vlist_3d354a89975451101c3438f11153afad</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:52</sys_updated_on>
+        <table>x_stave_sc_purchase_order</table>
+        <title>Purchase Orders Under Review - Total</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"count_type": {
+		"value": "Sum",
+		"displayValue": "Sum"
+	},
+	"count_field": {
+		"value": "total_cost",
+		"displayValue": "total_cost"
+	},
+	"count_style": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"conditional_style": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"success_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"warning_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"danger_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"average_to_substract": {
+		"value": "",
+		"displayValue": ""
+	},
+	"prefix": {
+		"value": "$",
+		"displayValue": "$"
+	},
+	"filter_by_range": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"default_range": {
+		"value": "Today",
+		"displayValue": "Today"
+	},
+	"is_clickable": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"remove_glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"font_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"value_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_count": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"has_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"font_size": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=3d354a89975451101c3438f11153afad"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sp_instance_vlist_3d354a89975451101c3438f11153afad</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field/&gt;&lt;field_list/&gt;&lt;filter table="x_stave_sc_purchase_order"&gt;status=rev_in_prog&lt;item display_value="Review in Progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="rev_in_prog"/&gt;&lt;/filter&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;b9354a89975451101c3438f11153afab&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Stave Card"&gt;d03de22edb71f30094ea6693ca961993&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;daniel.molina&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-06-23 14:25:52&lt;/sys_created_on&gt;&lt;sys_id&gt;3d354a89975451101c3438f11153afad&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Purchase Orders Under Review - Total&lt;/sys_name&gt;&lt;sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Stave PunchOut Plugin"&gt;830fb13bdb2a901094ea6693ca9619db&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_3d354a89975451101c3438f11153afad&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;daniel.molina&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-06-23 14:25:52&lt;/sys_updated_on&gt;&lt;table&gt;x_stave_sc_purchase_order&lt;/table&gt;&lt;title&gt;Purchase Orders Under Review - Total&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"count_type": {
+		"value": "Sum",
+		"displayValue": "Sum"
+	},
+	"count_field": {
+		"value": "total_cost",
+		"displayValue": "total_cost"
+	},
+	"count_style": {
+		"value": "",
+		"displayValue": ""
+	},
+	"count_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url_target": {
+		"value": "",
+		"displayValue": ""
+	},
+	"conditional_style": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"success_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"warning_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"danger_target": {
+		"value": null,
+		"displayValue": ""
+	},
+	"id_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"roles": {
+		"value": "",
+		"displayValue": ""
+	},
+	"average_to_substract": {
+		"value": "",
+		"displayValue": ""
+	},
+	"prefix": {
+		"value": "$",
+		"displayValue": "$"
+	},
+	"filter_by_range": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"default_range": {
+		"value": "Today",
+		"displayValue": "Today"
+	},
+	"is_clickable": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"remove_glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"font_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"value_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_count": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"has_date_range_picker": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"font_size": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3d354a89975451101c3438f11153afad"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2109030135</payload_hash>
+        <record_name>Purchase Orders Under Review - Total</record_name>
+        <reverted_from/>
+        <source>d1047e3c979811101c3438f11153aff7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>39354a89975451101c3438f11153afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18190f482f50000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:25:52</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>31354a89e8545110f9044f9672b484af</update_guid>
+        <update_guid_history>31354a89e8545110f9044f9672b484af:2109030135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Purchase Orders Under Review - Total">4df50a0d975451101c3438f11153af30</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:29:06</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>530e556377f24254b9cbeb7d07f4b7e1</sys_id>
+        <sys_metadata>3d354a89975451101c3438f11153afad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Orders Under Review - Total</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_3d354a89975451101c3438f11153afad</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_3d354a89975451101c3438f11153afad">39354a89975451101c3438f11153afaf</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 14:29:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

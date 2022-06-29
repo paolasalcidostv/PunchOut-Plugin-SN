@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>88653443db1d609094ea6693ca961923</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <average_daily_fte/>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <hourly_rate>0</hourly_rate>
+        <include_members>false</include_members>
+        <manager/>
+        <name>SPP PunchOut Requestor</name>
+        <parent/>
+        <roles/>
+        <source/>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2020-12-29 18:14:25</sys_created_on>
+        <sys_id>88653443db1d609094ea6693ca961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2020-12-29 18:14:25</sys_updated_on>
+        <type/>
+        <vendors/>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>paola.salcido</sys_created_by>
+        <sys_created_on>2020-12-29 18:19:14</sys_created_on>
+        <sys_id>21867007db1d609094ea6693ca9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SPP PunchOut Requestor</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_metadata_link_21867007db1d609094ea6693ca9619eb</sys_update_name>
+        <sys_updated_by>paola.salcido</sys_updated_by>
+        <sys_updated_on>2020-12-29 18:19:14</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

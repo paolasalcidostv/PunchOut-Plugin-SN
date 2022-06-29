@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Punchout Dashboard - Container 7</name>
+        <order>7</order>
+        <sp_page display_value="stv_sc_punchout_dashboard">e5350a49975451101c3438f11153af98</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 14:25:52</sys_created_on>
+        <sys_id>25354a89975451101c3438f11153af92</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Punchout Dashboard - Container 7</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_container_25354a89975451101c3438f11153af92</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:31:06</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sp_container_25354a89975451101c3438f11153af92</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Punchout Dashboard - Container 7</name><order>7</order><sp_page display_value="stv_sc_punchout_dashboard">e5350a49975451101c3438f11153af98</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>daniel.molina</sys_created_by><sys_created_on>2022-06-23 14:25:52</sys_created_on><sys_id>25354a89975451101c3438f11153af92</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Punchout Dashboard - Container 7</sys_name><sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package><sys_policy/><sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope><sys_update_name>sp_container_25354a89975451101c3438f11153af92</sys_update_name><sys_updated_by>daniel.molina</sys_updated_by><sys_updated_on>2022-06-23 15:31:06</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>303719178</payload_hash>
+        <record_name>Punchout Dashboard - Container 7</record_name>
+        <reverted_from/>
+        <source>d1047e3c979811101c3438f11153aff7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:31:06</sys_created_on>
+        <sys_id>9d249a49979451101c3438f11153af3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18191303aa50000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:31:06</sys_updated_on>
+        <type>Container</type>
+        <update_guid>05249a4966945110885da238c125873b</update_guid>
+        <update_guid_history>05249a4966945110885da238c125873b:303719178,5fb25609af94511054f70bc9006fc606:1905660523,847dcac17d945110ce1da9483565630c:303719178,0b6d8ac13394511091e304ef5f4738be:-1298222167,969b0281c094511072de007131adc6a6:1394803784,2cd94201e494511062122c00249415fd:-207137561,49650a89fc545110e83991b9a8a5d056:161818486,69354a89d9545110a93c475613a6c193:-1408864938</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Punchout Dashboard - Container 7">de249a49979451101c3438f11153afb4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-06-23 15:31:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>1d2b696674664f60b3918afa8029a6a1</sys_id>
+        <sys_metadata>25354a89975451101c3438f11153af92</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Punchout Dashboard - Container 7</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sp_container_25354a89975451101c3438f11153af92</sys_update_name>
+        <sys_update_version display_value="sp_container_25354a89975451101c3438f11153af92">9d249a49979451101c3438f11153af3b</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-06-23 15:31:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

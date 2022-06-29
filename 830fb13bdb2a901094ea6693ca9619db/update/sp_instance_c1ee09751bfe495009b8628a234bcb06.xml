@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">43aec1751bfe495009b8628a234bcbf6</sp_column>
+        <sp_widget display_value="Stave Related List">07e04283db0e7700f99a41deaa9619d6</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-04-12 04:52:27</sys_created_on>
+        <sys_id>c1ee09751bfe495009b8628a234bcb06</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Ship Notice Lines History</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_c1ee09751bfe495009b8628a234bcb06</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-04-12 05:00:44</sys_updated_on>
+        <title>Ship Notice Lines History</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"table": {
+		"value": "x_stave_sc_ship_notice_history",
+		"displayValue": "x_stave_sc_ship_notice_history"
+	},
+	"reference_field": {
+		"value": "ship_notice_line",
+		"displayValue": "ship_notice_line"
+	},
+	"query": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"page_id": {
+		"value": "",
+		"displayValue": ""
+	},
+	"new_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_new": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"open_list_item_in_modal": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"create_new_in_modal": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"new_record_modal_widget": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_edit": {
+		"value": "",
+		"displayValue": ""
+	},
+	"edit_widget": {
+		"value": "",
+		"displayValue": ""
+	},
+	"picker_display_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"picker_display_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"picker_search_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"static_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"target_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"picker_table_name": {
+		"value": "",
+		"displayValue": ""
+	},
+	"conditional_view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"new_button_conditions": {
+		"value": "",
+		"displayValue": ""
+	},
+	"model_new_record_submit_message": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_view": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"filter_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"order_by_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"order_by": {
+		"value": "",
+		"displayValue": ""
+	},
+	"new_page_view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_personalize_list": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"parent_table": {
+		"value": "",
+		"displayValue": ""
+	},
+	"ignore_reference_parameters": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"show_keywords": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_title_related_list": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"target_table": {
+		"value": "",
+		"displayValue": ""
+	},
+	"reference_target_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"search_in_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"open_record_in_modal_view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_new_modal_header": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"modal_title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_delete": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"open_record_in_modal_widget": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1ee09751bfe495009b8628a234bcb06"/>
+</record_update>

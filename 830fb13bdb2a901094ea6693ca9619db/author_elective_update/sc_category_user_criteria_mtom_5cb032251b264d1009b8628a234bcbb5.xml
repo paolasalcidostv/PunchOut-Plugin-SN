@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category_user_criteria_mtom">
+    <sc_category_user_criteria_mtom action="DELETE">
+        <sc_category display_value="Vendor Catalogs">a2948c59db3a501090b15c7a48961972</sc_category>
+        <sys_class_name>sc_category_user_criteria_mtom</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-03-30 07:02:54</sys_created_on>
+        <sys_id>5cb032251b264d1009b8628a234bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Catalogs.Stave Standalone PunchOut Requestors</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sc_category_user_criteria_mtom_5cb032251b264d1009b8628a234bcbb5</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-03-30 07:02:54</sys_updated_on>
+        <user_criteria display_value="Stave Standalone PunchOut Requestors">96ecf8a3dba5e4d094ea6693ca961940</user_criteria>
+    </sc_category_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sc_category_user_criteria_mtom_5cb032251b264d1009b8628a234bcbb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category_user_criteria_mtom"><sc_category_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_category display_value="Vendor Catalogs">a2948c59db3a501090b15c7a48961972</sc_category><sys_class_name>sc_category_user_criteria_mtom</sys_class_name><sys_created_by>daniel.molina</sys_created_by><sys_created_on>2022-03-30 07:02:54</sys_created_on><sys_id>5cb032251b264d1009b8628a234bcbb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vendor Catalogs.Stave Standalone PunchOut Requestors</sys_name><sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package><sys_policy/><sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope><sys_update_name>sc_category_user_criteria_mtom_5cb032251b264d1009b8628a234bcbb5</sys_update_name><sys_updated_by>daniel.molina</sys_updated_by><sys_updated_on>2022-03-30 07:02:54</sys_updated_on><user_criteria display_value="Stave Standalone PunchOut Requestors">96ecf8a3dba5e4d094ea6693ca961940</user_criteria></sc_category_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1236694478</payload_hash>
+        <record_name>Vendor Catalogs.Stave Standalone PunchOut Requestors</record_name>
+        <reverted_from/>
+        <source>a79d62291be24d1009b8628a234bcb3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-03-30 07:02:54</sys_created_on>
+        <sys_id>94b0b2251b264d1009b8628a234bcb08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fd9a26ce00000001</sys_recorded_at>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-03-30 07:02:54</sys_updated_on>
+        <type>Category Available for</type>
+        <update_guid>9cb0b225d9264d1006e3fc42ad9e9907</update_guid>
+        <update_guid_history>9cb0b225d9264d1006e3fc42ad9e9907:-1236694478</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vendor Catalogs.Stave Standalone PunchOut Requestors">1e317a651b664d1009b8628a234bcba5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-03-30 07:05:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_category_user_criteria_mtom">sc_category_user_criteria_mtom</sys_db_object>
+        <sys_id>213a75d096cf4215870dcae1cc1e1671</sys_id>
+        <sys_metadata>5cb032251b264d1009b8628a234bcbb5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Catalogs.Stave Standalone PunchOut Requestors</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sc_category_user_criteria_mtom_5cb032251b264d1009b8628a234bcbb5</sys_update_name>
+        <sys_update_version display_value="sc_category_user_criteria_mtom_5cb032251b264d1009b8628a234bcbb5">94b0b2251b264d1009b8628a234bcb08</sys_update_version>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-03-30 07:05:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

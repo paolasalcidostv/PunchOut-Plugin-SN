@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">17aa45711bfe495009b8628a234bcb16</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Stave Form">e9146a9ddbd2b34094ea6693ca961905</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>daniel.molina</sys_created_by>
+        <sys_created_on>2022-04-12 04:31:29</sys_created_on>
+        <sys_id>34bac9711bfe495009b8628a234bcb93</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Summary</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sp_instance_vlist_34bac9711bfe495009b8628a234bcb93</sys_update_name>
+        <sys_updated_by>daniel.molina</sys_updated_by>
+        <sys_updated_on>2022-04-12 14:24:38</sys_updated_on>
+        <table>x_stave_sc_ship_notice_line</table>
+        <title>Summary</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"field_list": {
+		"value": "",
+		"displayValue": ""
+	},
+	"title": {
+		"value": "Summary",
+		"displayValue": "Summary"
+	},
+	"header_field": {
+		"value": "status",
+		"displayValue": "status"
+	},
+	"image": {
+		"value": "",
+		"displayValue": ""
+	},
+	"bootstrap_column_size": {
+		"value": "4",
+		"displayValue": "4"
+	},
+	"assigned_to_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_empty_fields": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"section": {
+		"value": null,
+		"displayValue": ""
+	},
+	"form_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"help_text": {
+		"value": "",
+		"displayValue": ""
+	},
+	"help_text_view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"clickable_referenced_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"service_portal_urls_table": {
+		"value": "",
+		"displayValue": ""
+	},
+	"translated_html": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"run_scripts": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"scripted_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"scripted_fields_position": {
+		"value": null,
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=34bac9711bfe495009b8628a234bcb93"/>
+</record_update>

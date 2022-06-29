@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>5fc94548dbbfe450f24c5e25ca961996</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_location">
+    <cmn_location action="INSERT_OR_UPDATE">
+        <account/>
+        <city/>
+        <company/>
+        <consumer/>
+        <contact/>
+        <coordinates_retrieved_on/>
+        <country/>
+        <fax_phone/>
+        <full_name>Amazon Business</full_name>
+        <lat_long_error/>
+        <latitude/>
+        <longitude/>
+        <name>Amazon Business</name>
+        <parent/>
+        <phone/>
+        <phone_territory/>
+        <primary>false</primary>
+        <state/>
+        <stock_room>false</stock_room>
+        <street/>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-04-23 18:38:47</sys_created_on>
+        <sys_id>5fc94548dbbfe450f24c5e25ca961996</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 15:24:38</sys_updated_on>
+        <time_zone/>
+        <type/>
+        <zip/>
+    </cmn_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2021-05-06 16:27:16</sys_created_on>
+        <sys_id>11682308db40b090f24c5e25ca9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amazon Business</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sys_metadata_link_11682308db40b090f24c5e25ca9619ad</sys_update_name>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:27:16</sys_updated_on>
+        <tablename>cmn_location</tablename>
+    </sys_metadata_link>
+</record_update>

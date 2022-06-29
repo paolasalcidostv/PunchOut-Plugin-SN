@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Amazon Business">96940c59db3a501090b15c7a4896195c</catalog_item>
+        <catalog_variable>IO:92948c59db3a501090b15c7a48961950</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>ilse.hernandez</sys_created_by>
+        <sys_created_on>2020-08-21 21:34:46</sys_created_on>
+        <sys_id>62948c59db3a501090b15c7a48961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vendor</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_62948c59db3a501090b15c7a48961968</sys_update_name>
+        <sys_updated_by>ilse.hernandez</sys_updated_by>
+        <sys_updated_on>2020-08-21 21:34:46</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Vendor Field">52948c59db3a501090b15c7a48961964</ui_policy>
+        <variable>vendor</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

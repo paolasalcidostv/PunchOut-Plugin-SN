@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Amazon Direct Order Item">a8f03fd5971891101c3438f11153af4b</sc_cat_item>
+        <sc_category display_value="PunchOut Catalogs">41cfa19adbf9c050f99a41deaa9619e4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2022-06-24 16:55:55</sys_created_on>
+        <sys_id>ad21ffd5971891101c3438f11153af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PunchOut Catalogs.Amazon Direct Order Item</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_update_name>sc_cat_item_category_ad21ffd5971891101c3438f11153af10</sys_update_name>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2022-06-24 16:55:55</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</application>
+        <file_path/>
+        <instance_id>6d7935fadbd99f44b2e05d00cf961994</instance_id>
+        <instance_name>ven02473</instance_name>
+        <name>sc_cat_item_category_ad21ffd5971891101c3438f11153af10</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Amazon Direct Order Item">a8f03fd5971891101c3438f11153af4b</sc_cat_item><sc_category display_value="PunchOut Catalogs">41cfa19adbf9c050f99a41deaa9619e4</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>jonas.perusquia</sys_created_by><sys_created_on>2022-06-24 16:55:55</sys_created_on><sys_id>ad21ffd5971891101c3438f11153af10</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PunchOut Catalogs.Amazon Direct Order Item</sys_name><sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package><sys_policy/><sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope><sys_update_name>sc_cat_item_category_ad21ffd5971891101c3438f11153af10</sys_update_name><sys_updated_by>jonas.perusquia</sys_updated_by><sys_updated_on>2022-06-24 16:55:55</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1446493810</payload_hash>
+        <record_name>PunchOut Catalogs.Amazon Direct Order Item</record_name>
+        <reverted_from/>
+        <source>83c7143b1b7349505471db51cd4bcbb5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2022-06-24 16:55:56</sys_created_on>
+        <sys_id>2921ffd5971891101c3438f11153af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18196a441660000001</sys_recorded_at>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2022-06-24 16:55:56</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2121ffd55b1891105b2f0e8cb4dc0414</update_guid>
+        <update_guid_history>2121ffd55b1891105b2f0e8cb4dc0414:-1446493810</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PunchOut Catalogs.Amazon Direct Order Item">c672f359971891101c3438f11153afbf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jonas.perusquia</sys_created_by>
+        <sys_created_on>2022-06-24 17:01:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>7d04df39ee564ffb98a577bfb83170b1</sys_id>
+        <sys_metadata>ad21ffd5971891101c3438f11153af10</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PunchOut Catalogs.Amazon Direct Order Item</sys_name>
+        <sys_package display_value="Stave PunchOut Plugin" source="x_stave_punchout">830fb13bdb2a901094ea6693ca9619db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stave PunchOut Plugin">830fb13bdb2a901094ea6693ca9619db</sys_scope>
+        <sys_scope_delete display_value="">0d3138e3b40f43488209ac7f91038c51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_ad21ffd5971891101c3438f11153af10</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_ad21ffd5971891101c3438f11153af10">2921ffd5971891101c3438f11153af14</sys_update_version>
+        <sys_updated_by>jonas.perusquia</sys_updated_by>
+        <sys_updated_on>2022-06-24 17:01:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
